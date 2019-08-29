@@ -1,0 +1,2 @@
+# Todo List Server
+This is the back end RESTful API for my todo list app. The front end UI written in React can be found [here](https://github.com/samkitchen94/todo_app). Here I will use Mongo DB to store my todos to learn more about using a new database as well as to understand more how a back end API can interact with the front end UI.
